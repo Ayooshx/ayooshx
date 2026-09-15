@@ -1,4 +1,4 @@
-<img width="736" height="490" alt="wise-words-said-from-cat" src="https://github.com/user-attachments/assets/25e89735-71d9-414c-8d0e-b00e0c9622d8" />
+<img width="692" height="274" alt="image" src="https://github.com/user-attachments/assets/e9a170b3-abc2-440b-8234-d3d328ea4be1" />
 
 ## Hi !!!
 
