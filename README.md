@@ -1,6 +1,5 @@
 ## Hi !!!
 
-<!--
 currently a highschooler
 
 - currently exploring ideas 
