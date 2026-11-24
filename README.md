@@ -4,5 +4,5 @@
 
 currently a highschooler
 
-- currently exploring ideas 
+- exploring ideas related to ai, ai tools, cybersec 
 - i love playing video games and i can play the synthesizer
